@@ -1,3 +1,8 @@
-# Port Scanner
 
-This is the boilerplate for the Port Scanner project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/information-security/information-security-projects/port-scanner
+# Port Scanner
+A python script that allows you to scan a target for open ports within a specified range and provides the option to display detailed information about the open ports and their associated services.
+## Technologies used
+- Python
+## App demo
+
+https://replit.com/@niangamadou888/boilerplate-port-scanner
